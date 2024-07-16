@@ -7,3 +7,21 @@ This project is a simple login and signup page developed using the Tkinter libra
 ## Requirements
 - Python 3.x
 - Tkinter (included with Python)
+## Screenshots
+### Login Page
+![image](https://github.com/user-attachments/assets/78a11983-d5cc-45e4-b4d8-c3dcdc55def1)
+### Signup Page
+![image](https://github.com/user-attachments/assets/a9797a3d-6289-4d37-b44a-a67015d17dcf)
+
+## Project Structure
+- 
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+
+
