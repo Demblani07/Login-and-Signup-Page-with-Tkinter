@@ -1,15 +1,15 @@
 # Login-and-Signup-Page-with-Tkinter
 ## Table of Contents
-[Description](Description)
-Features
-Requirements
-Installation
-Usage
-Screenshots
-Project Structure
-Contributing
-License
-Contact
+- [Description](#description)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Description
 This project is a simple login and signup page developed using the Tkinter library in Python. It allows users to create an account and log in with their credentials. The project demonstrates basic GUI development with Tkinter and provides a fundamental example of user authentication.
