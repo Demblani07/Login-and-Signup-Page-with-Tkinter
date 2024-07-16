@@ -1,6 +1,6 @@
 # Login-and-Signup-Page-with-Tkinter
 ## Table of Contents
-[## Description](Introduction)
+[Description](Description)
 Features
 Requirements
 Installation
