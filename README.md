@@ -14,7 +14,13 @@ This project is a simple login and signup page developed using the Tkinter libra
 ![image](https://github.com/user-attachments/assets/a9797a3d-6289-4d37-b44a-a67015d17dcf)
 
 ## Project Structure
-- 
+- **README.md:** The README file for the project.
+- **main.py:** The main script to run the application.
+- **signup.py:** Contains the signup form and related functionality.
+- **login_page.py:** Contains the login form and related functionality.
+- **datasheet.txt**: Manages user data storage and retrieval
+- **login2.png:** Screenshot of the login page.
+- **signup_page.png:** Screenshot of the signup page.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
